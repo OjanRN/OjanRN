@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fauzan Rizky</h1>
 <h3 align="center">A hardworking fullstack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojanrn&label=Profile%20views&color=00ff00&style=flat" alt="ojanrn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojanrn&label=Profile%20views&color=000000&style=flat" alt="ojanrn" /> </p>
 
 - 🔭 I’m currently working on [returnstk](https://github.com/OjanRN/returnstk)
 
