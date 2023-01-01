@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojanrn&label=Profile%20views&color=000000&style=flat" alt="ojanrn" /> </p>
 
-- 🔭 I’m currently working on [newsmap](https://github.com/OjanRN/newsmap)
-
 - 🌱 I’m currently learning **Python Selenium and Django**
 
 - 📫 How to reach me **ojan.vscode@gmail.com**
