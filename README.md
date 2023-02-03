@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fauzan Rizky</h1>
-<h3 align="center">A hardworking fullstack developer from Indonesia</h3>
+<h3 align="center">A typical programmer and ethical hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojanrn&label=Profile%20views&color=000000&style=flat" alt="ojanrn" /> </p>
 
